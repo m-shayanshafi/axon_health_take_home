@@ -40,6 +40,10 @@ http://localhost:8501
 make test
 ```
 
+## Task B: Agentic layer design
+
+The design for the natural language → JSON spec → read-only query → chart flow is in these slides: [Task B design slides](https://docs.google.com/presentation/d/1Wnh1cbksFQffoIBoyDeV1AS0YBybN13WiX11BhnbPOk/edit?usp=sharing)
+
 ## Task C: Written answers
 
 The Task C answers (C1 notes to structure, C2 accuracy, C3 predictive idea) are in this Google Doc: [Task C written answers](https://docs.google.com/document/d/1vjUkfCAx7fhcuWlzYYjg76e005a16P60J5911xsg54s/edit?usp=sharing)
