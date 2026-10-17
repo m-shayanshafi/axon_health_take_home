@@ -39,3 +39,7 @@ http://localhost:8501
 ```bash
 make test
 ```
+
+## Task C: Written answers
+
+The Task C answers (C1 notes to structure, C2 accuracy, C3 predictive idea) are in this Google Doc: [Task C written answers](https://docs.google.com/document/d/1vjUkfCAx7fhcuWlzYYjg76e005a16P60J5911xsg54s/edit?usp=sharing)
